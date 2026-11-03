@@ -2,6 +2,8 @@
 
 ### Software Engineer | Backend, Full-Stack & Applied AI
 
+[Portfolio](https://dev-parikh.com) · [LinkedIn](https://www.linkedin.com/in/devparikh0506) · [Medium](https://medium.com/@dev.dpparikh)
+
 I'm a software engineer with **4+ years of experience building scalable backend systems, full-stack applications, cloud platforms, and production AI workflows**.
 
 My work spans **distributed systems, real-time platforms, semantic retrieval, RAG, LLM evaluation, and AI-powered developer tools**. I enjoy taking systems from idea to production with a strong focus on **performance, reliability, observability, and measurable impact**.
@@ -22,7 +24,21 @@ My work spans **distributed systems, real-time platforms, semantic retrieval, RA
 
 ## 🧠 Featured Projects
 
-### 🔎 Context QA
+### 💳 [Paywright](https://github.com/devpparikh/paywright)
+
+One-command scaffolder for a production-ready Stripe payment microservice, plus a typed client SDK. Idempotent webhook processing (verify → dedup → queue), a circuit breaker around every Stripe call, and an OpenAPI-generated SDK. Published on npm with a full docs site.
+
+**Tech:** NestJS, PostgreSQL, Redis, BullMQ, OpenAPI, GitHub Actions
+
+[Docs](https://docs.paywright.dev-parikh.com) · [npm](https://www.npmjs.com/package/create-paywright-app) · [Design write-up](https://medium.com/@dev.dpparikh/paykit-how-i-turned-a-week-of-stripe-plumbing-into-one-command-063251013799)
+
+### 🎬 [StreamForge](https://github.com/devpparikh/video-streaming-platform)
+
+Video streaming platform: browser uploads go straight to S3 in resumable multipart chunks, Celery workers transcode with ffmpeg into a 1080p / 720p / 480p DASH ladder, and dash.js streams it back adaptively.
+
+**Tech:** FastAPI, Celery, ffmpeg, S3, DynamoDB, React, Terraform
+
+### 🔎 [Context QA](https://github.com/devpparikh/Context-QA)
 
 Production-focused RAG platform using hybrid BM25 and vector retrieval, metadata filtering, embedding caching, and context budgeting.
 
@@ -122,9 +138,9 @@ Gujarat Technological University
 
 ## 📊 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=devparikh0506&theme=react-dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=devpparikh&theme=github-dark-blue&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devparikh0506&theme=github_dark)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devpparikh&theme=github_dark)
 
 ---
 
