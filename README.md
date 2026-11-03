@@ -38,7 +38,7 @@ Video streaming platform: browser uploads go straight to S3 in resumable multipa
 
 **Tech:** FastAPI, Celery, ffmpeg, S3, DynamoDB, React, Terraform
 
-### 🔎 [Context QA](https://github.com/devpparikh/Context-QA)
+### 🔎 Context QA
 
 Production-focused RAG platform using hybrid BM25 and vector retrieval, metadata filtering, embedding caching, and context budgeting.
 
